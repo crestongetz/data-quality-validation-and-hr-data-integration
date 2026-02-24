@@ -7,7 +7,7 @@ Using Python (Pandas), I identified and resolved critical anomalies—including 
 
 ## Methods and Discussions
 ### Data Profiling and Quality Dimensions
-Before integration, I created a [data quality plan]() `addressing` the `importance` of `data quality` for `stakeholders`.
+Before integration, I created a [data quality plan](Data Quality Plan.pdf) `addressing the importance of data quality for stakeholders`.
 
 I evaluated the acquired firm’s data against the six dimensions of data quality (Accuracy, Completeness, Consistency, Timeliness, Validity, and Uniqueness). My primary focus was on Accuracy and Completeness to ensure the integration did not corrupt the parent company's master records.
 

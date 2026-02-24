@@ -8,7 +8,7 @@ Using Python (Pandas), I identified and resolved critical anomalies—including 
 ## Methods and Discussions
 ### Data Profiling and Quality Dimensions
 Before integration, I created a [data quality plan](https://github.com/crestongetz/data-quality-validation-and-hr-data-integration/blob/main/Data%20Quality%20Plan.pdf) to create a governance framework for stakeholders and to introduce them to the importance of data quality.
-Following this I made a [Executive Summary Report]() where I evaluated the acquired firm’s data against the six dimensions of data quality (Accuracy, Completeness, Consistency, Timeliness, Validity, and Uniqueness). My primary focus was on Accuracy and Completeness to ensure the integration did not corrupt the parent company's master records.
+Following this I made a [Executive Summary Report](https://github.com/crestongetz/data-quality-validation-and-hr-data-integration/blob/main/Executive%20Summary%20Report.pdf) where I evaluated the acquired firm’s data against the six dimensions of data quality (Accuracy, Completeness, Consistency, Timeliness, Validity, and Uniqueness). My primary focus was on Accuracy and Completeness to ensure the integration did not corrupt the parent company's master records.
 
 ### Key Anomalies & Resolutions
 Using Pandas, I performed a deep dive into the new frims dataset. You can view the [Data Validation Report]() for the full list of findings. Here are some of the critial issues found and resolved:

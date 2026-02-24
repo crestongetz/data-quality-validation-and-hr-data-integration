@@ -1,0 +1,106 @@
+Employee_Name,DOB,Age,Marital_Status,Citizen_Desc,Hispanic_Latino,Race_Desc,Days_Employed
+"Brown, Mia        ",11/24/1987,30,NotMarried,US Citizen,No,Black or African American,3317
+William  ,4/26/1984,34,Married,US Citizen,No,Black or African American,1420
+"Steans, Tyrone  ",9/1/1986,31,Married,US Citizen,No,White,1154
+"Howard, Estelle",9/16/1985,32,NotMarried,US Citizen,No,White,58
+"Singh, Nan ",5/19/1988,30,Married,US Citizen,No,White,940
+"Smith, Leigh Ann",6/14/1987,30,NotMarried,US Citizen,No,Asian,730
+"LeBlanc, Brandon  R",6/10/1984,33,NotMarried,US Citizen,No,White,691
+"Quinn, Sean",11/6/1984,33,NotMarried,Eligible NonCitizen,No,Black or African American,1636
+"Boutwell, Bonalyn",4/4/1987,31,NotMarried,US Citizen,No,Asian,1014
+"Foster-Baker, Amy",4/16/1979,139,NotMarried,US Citizen,no,White,3247
+"King, Janet",9/21/1954,63,NotMarried,US Citizen,Yes,White,1973
+"Zamora, Jennifer",8/30/1979,38,Married,US Citizen,No,White,2787
+"Becker, Renee",4/4/1986,32,Married,US Citizen,Yes,White,432
+"Goble, Taisha",10/23/1971,46,Married,US Citizen,No,White,27
+"Hernandez, Daniff",8/7/1986,31,NotMarried,US Citizen,No,Black or African American,6
+"Horton, Jayne",2/21/1984,34,Married,US Citizen,No,White,972
+"Johnson, Noelle ",11/7/1986,31,NotMarried,US Citizen,No,Asian,1056
+"Murray, Thomas",7/4/1988,29,Married,Male,No,Black or African American,1112
+"Pearson, Randall",9/5/1984,33,NotMarried,US Citizen,No,White,517
+"Petrowsky, Thelma",9/16/1984,33,,US Citizen,No,Asian,1112
+"Roby, Lori ",10/11/1981,36,NotMarried,US Citizen,No,White,1014
+"Rogers, Ivan",8/26/1986,31,NotMarried,US Citizen,No,White,972
+"Salter, Jason",12/17/1987,30,NotMarried,US Citizen,No,Black or African American,299
+"Simard, Kramer",2/8/1970,48,Married,US Citizen,Yes,White,1056
+"Zhou, Julia",2/24/1979,39,NotMarried,US Citizen,No,White,972
+"Foss, Jason",7/5/1980,37,Married,US Citizen,No,Black or African American,2417
+"Roup,Simon",4/5/1973,45,Married,US Citizen,No,White,1771
+"Ruiz, Ricardo",1/4/1964,54,Married,US Citizen,No,Two or more races,1395
+"Monroe, Peter",10/5/1986,31,Married,Eligible NonCitizen,Yes,Hispanic,2111
+"Dougall, Eric",7/9/1970,47,NotMarried,US Citizen,No,White,1421
+"Clayton, Rick",9/5/1985,32,Married,,No,White,1908
+"Galia, Lisa",7/6/1968,49,Married,US Citizen,No,White,2766
+"Lindsay, Leonara ",10/5/1988,29,Married,US Citizen,Yes,Two or more races,2501
+"Soto, Julia ",3/12/1973,45,Married,US Citizen,No,Black or African American,2361
+"Bacong, Alejandro ",1/7/1988,30,NotMarried,US Citizen,No,White,1056
+"Cisco, Anthony",11/24/1989,28,Married,US Citizen,Yes,White,972
+"Dolan, Linda",7/18/1988,29,NotMarried,US Citizen,No,White,1056
+"Gonzalez, Maria",4/16/1981,37,NotMarried,US Citizen,Yes,White,-514
+"Merlos, Carlos",6/18/1987,30,Married,US Citizen,No,White,972
+"Morway, Tanya",4/4/1979,39,Married,US Citizen,No,White,1014
+"Shepard, Anita ",4/14/1981,37,NotMarried,US Citizen,No,White,1153
+"Tredinnick, Neville ",5/5/1988,30,NotMarried,US Citizen,No,White,127
+"Turpin, Jumil",3/31/1969,49,NotMarried,Eligible NonCitizen,No,White,972
+"Ait Sidi, Karthikeyan   ",5/5/1975,43,NotMarried,US Citizen,No,White,444
+"Carr, Claudia  N",6/6/1986,31,NotMarried,US Citizen,No,Black or African American,514
+"Favis, Donald  ",7/30/1964,53,Married,US Citizen,No,Black or African American,732
+"Roehrich, Bianca",5/27/1973,45,Married,US Citizen,Yes,White,309
+"Daniele, Ann  ",1/18/1952,66,Married,US Citizen,No,White,1112
+"Lajiri,  Jyoti",4/23/1986,32,NotMarried,US Citizen,No,White,1112
+"Semizoglou, Jeremiah  ",2/9/1983,35,NotMarried,US Citizen,No,Asian,514
+"South, Joe",9/9/1965,52,NotMarried,US Citizen,No,White,1112
+"Warfield, Sarah",5/2/1978,40,,US Citizen,No,Asian,972
+"Bramante, Elisa",3/19/1983,35,Married,US Citizen,No,Black or African American,
+"Albert, Michael  ",10/10/1968,49,Married,US Citizen,No,White,2309
+"Bozzi, Charles",3/10/1970,48,Married,US Citizen,No,Asian,311
+"Butler, Webster  L",8/9/1983,34,Married,US Citizen,No,White,668
+"Dunn, Amy  ",11/28/1973,44,Married,US Citizen,No,White,1165
+"Gray, Elijiah  ",7/11/1981,36,Married,US Citizen,No,White,908
+"Hogland, Jonathan ",7/1/1972,45,Married,US Citizen,No,White,1797
+"Immediato, Walter",11/15/1976,41,Married,US Citizen,No,Asian,581
+"Liebig, Ketsia",10/26/1981,36,NotMarried,US Citizen,No,White,1518
+"Miller, Brannon",8/10/1981,36,NotMarried,US Citizen,yes,Hispanic,1928
+"Peterson, Ebonee  ",5/9/1977,41,NotMarried,US Citizen,No,White,2032
+"Spirea, Kelley",9/30/1975,42,Married,US Citizen,No,White,1881
+"Stanley, David ",12/17/1975,42,NotMarried,US Citizen,No,White,2686
+"Sullivan, Kissy ",3/28/1978,40,NotMarried,US Citizen,No,Black or African American,3244
+"Wallace, Courtney  E",11/14/1955,62,Married,US Citizen,No,Black or African American,98
+"Adinolfi, Wilson  K",7/10/1983,34,NotMarried,US Citizen,No,White,2336
+"Alagbe,Trina",9/27/1988,29,NotMarried,US Citizen,No,White,3611
+"Anderson, Carol ",9/8/1989,28,Married,US Citizen,No,White,57
+"Anderson, Linda  ",5/22/1919,41,NotMarried,US Citizen,No,White,2148
+"Athwal, Sam",2/18/1983,35,Married,US Citizen,No,White,1518
+"Bachiochi, Linda",2/11/1970,48,Married,US Citizen,No,Two or more races,3065
+"Baczenski, Rachael  ",1/12/1974,44,Married,US Citizen,Yes,Hispanic,2
+"Barbara, Thomas",2/21/1974,44,,US Citizen,Yes,Asian,170
+"Barone, Francesco  A",7/20/1983,34,Married,US Citizen,No,Two or more races,2106
+"Barton, Nader",7/15/1977,40,NotMarried,US Citizen,No,White,194
+"Beatrice, Courtney ",10/27/1970,47,NotMarried,Eligible NonCitizen,No,White,2428
+"Becker, Scott",4/6/1979,39,Married,US Citizen,No,Asian,1602
+"Bernstein, Sean",12/22/1970,47,Married,US Citizen,Yes,White,2064
+"Biden, Lowan  M",12/27/1958,59,Married,US Citizen,No,Asian,1560
+"Billis, Helen",9/1/1989,28,Married,US Citizen,No,White,1238
+"Brill, Donna",8/24/1990,27,Married,US Citizen,No,White,439
+"Bugali, Josephine ",10/30/1969,48,Married,US Citizen,No,Black or African American,1476
+"Carey, Michael  ",2/2/1983,35,NotMarried,US Citizen,No,Black or African American,1336
+"Chace, Beatrice ",1/2/1951,67,NotMarried,US Citizen,No,White,1154
+"Chan, Lin",2/12/1979,39,Married,US Citizen,No,White,1294
+"Chang, Donovan  E",8/24/1983,34,Married,US Citizen,No,White,1602
+"Chivukula, Enola",8/27/1983,34,Married,US Citizen,No,White,1602
+"Cierpiszewski, Caroline  ",5/31/1988,30,Married,Non-Citizen,No,Black or African American,52246
+"Clukey, Elijian",8/26/1980,37,Married,US Citizen,No,White,508
+"Cockel, James",9/8/1977,40,Married,US Citizen,No,White,1602
+"Cole, Spencer",8/12/1979,38,Married,US Citizen,No,Black or African American,440
+"Cornett, Lisa ",3/31/1977,41,NotMarried,US Citizen,Yes,White,1056
+"Crimmings,   Jean",4/10/1987,31,Married,US Citizen,No,White,508
+"Darson, Jeneya ",11/5/1978,39,Married,US Citizen,No,White,1973
+"DeGweck,  James",10/31/1977,40,NotMarried,US Citizen,No,White,1484
+"Desimone, Carl ",4/19/1967,51,Married,US Citizen,No,White,1238
+"Dickinson, Geoff ",11/15/1982,,NotMarried,US Citizen,No,White,1294
+"DiNocco, Lily ",12/2/1978,39,Female,US Citizen,No,Black or African American,1784
+"Dobrin, Denisa  S",10/7/1986,31,NotMarried,US Citizen,Yes,White,2064
+"Eaton, Marianne",9/5/1991,26,Married,US Citizen,No,White,794
+"Engdahl, Jean",5/31/1974,44,NotMarried,US Citizen,No,White,1112
+"England, Rex",8/25/1978,-39,Married,US Citizen,No,White,1336
+"Estremera, Miguel",9/2/1983,34,,US Citizen,No,White,1100

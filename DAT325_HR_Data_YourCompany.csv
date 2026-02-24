@@ -1,0 +1,106 @@
+Last_Name,First_Name,DOB,Employee_Number,Pay_Rate,State,Zip,Sex,Date_of_Hire,Date_of_Termination,Reason_For_Term,Employment_Status,Department,Position,Manager_Name,Employee_Source,Performance_Score
+Brown,Mia        ,11/24/1987,1103024456,28.5,MA,01450,Female,10/27/2008,,N/A - still employed,Active,Admin Offices,Accountant I,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets
+William  ,Thomas,4/26/1984,1106026572,23,MA,01460,Male,1/6/2014,,N/A - still employed,Active,Admin Offices,Accountant I,Brandon R. LeBlanc,Website Banner Ads,Fully Meets
+Steans,Tyrone  ,9/1/1986,1302053333,29,MA,02703,Male,9/29/2014,,N/A - still employed,Active,Admin Offices,Accountant I,Brandon R. LeBlanc,Internet Search,Fully Meets
+Howard,Estelle,9/16/1985,1211050782,21.5,MA,02170,Female,2/16/2015,4/15/2015,N/A - still employed,Active,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Pay Per Click - Google,N/A- too early to review
+Singh,Jag,5/19/1988,1307059817,16.56,MA,02330,Female,5/1/2015,,N/A - still employed,Active,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Website Banner Ads,N/A- too early to review
+Smith,Leigh,6/14/1987,711007713,20.5,MA,01844,Female,9/26/2011,9/25/2013,career change,Voluntarily Terminated,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets
+LeBlanc,Brandon,6/10/1984,1102024115,55,MA,01460,Male,1/5/2016,,N/A - still employed,Active,Admin Offices,Shared Services Manager,Janet King,Monster.com,Fully Meets
+Quinn,Sean,11/6/1984,1206043417,55,MA,02045,Male,2/21/2011,8/15/2015,career change,Voluntarily Terminated,Admin Offices,Shared Services Manager,Janet King,Diversity Job Fair,Fully Meets
+Boutwell,Bonalyn,4/4/1987,1307060188,34.95,MA,02468,Female,2/16/2015,,N/A - still employed,Active,Admin Offices,Sr. Accountant,Brandon R. LeBlanc,Diversity Job Fair,90-day meets
+Foster-Baker,Amy,4/16/1979,1201031308,34.95,MA,02050,Female,1/5/2009,,N/A - still employed,Active,Admin Offices,Sr. Accountant,Board of Directors,Other,Fully Meets
+King,Janet,9/21/1954,1001495124,80,MA,01902,Female,7/2/2012,,N/A - still employed,Active,Executive Office,President & CEO,Board of Directors,Pay Per Click - Google,Fully Meets
+Zamora,Jennifer,8/30/1979,1112030816,65,MA,02067,Female,4/10/2010,,N/A - still employed,Active,IT/IS,CIO,Janet King,Employee Referral,Exceptional
+Becker,Renee,4/4/1986,1102024056,43,MA,02026,Female,7/7/2014,9/12/2015,performance,Terminated for Cause,IT/IS,Database Administrator,Simon Roup,Search Engine - Google Bing Yahoo,Fully Meets
+Goble,Taisha,10/23/1971,905013738,48.5,MA,02127,Female,2/16/2015,3/15/2015,"no-call, no-show",Terminated for Cause,IT/IS,Database Administrator,Simon Roup,Glassdoor,Fully Meets
+Hernandez,Daniff,8/7/1986,1410071156,40.1,MA,01960,Male,2/16/2015,2/22/2015,"no-call, no-show",Terminated for Cause,IT/IS,Database Administrator,Simon Roup,Employee Referral,N/A- too early to review
+Horton,Jayne,2/21/1984,1105025718,34,MA,02493,Female,3/30/2015,,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Glassdoor,N/A- too early to review
+Johnson,Noelle ,11/7/1986,1003018246,40,MA,02301,Female,1/5/2015,,N/A - still employed,Leave of Absence,IT/IS,Database Administrator,Simon Roup,Glassdoor,90-day meets
+Murray,Thomas,7/4/1988,1406068403,35.5,TX,78230,Male,11/10/2014,,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Diversity Job Fair,Exceptional
+Pearson,Randall,9/5/1984,1102023965,41,MA,02747,Male,12/1/2014,5/1/2016,performance,Voluntarily Terminated,IT/IS,Database Administrator,Simon Roup,Employee Referral,Fully Meets
+Petrowsky,Thelma,9/16/1984,1108027853,42.75,MA,01886,Female,11/10/2014,,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Employee Referral,Exceptional
+Roby,Lori ,10/11/1981,1407068885,39.55,MA,01886,Female,2/16/2015,,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Employee Referral,Fully Meets
+Rogers,Ivan,8/26/1986,1203032255,42.2,MA,01810,Male,3/30/2015,,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Pay Per Click - Google,N/A- too early to review
+Salter,Jason,12/17/1987,1111030148,45,MA,02452,Male,1/5/2015,10/31/2015,hours,Voluntarily Terminated,IT/IS,Database Administrator,Simon Roup,Vendor Referral,90-day meets
+Simard,Kramer,2/8/1970,808010278,30.2,MA,02110,Male,1/5/2015,,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Employee Referral,90-day meets
+Zhou,Julia,2/24/1979,1110029732,31.4,MA,02148,Female,3/30/2015,,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Employee Referral,90-day meets
+Foss,Jason,7/5/1980,1192991000,65,MA,01460,Male,4/15/2011,,N/A - still employed,Active,IT/IS,IT Director,Jennifer Zamora,Professional Society,Exceptional
+Roup,imon,4/5/1973,1106026933,62,MA,02481,Male,1/20/2013,,N/A - still employed,Active,IT/IS,IT Manager - DB,Jennifer Zamora,Professional Society,Fully Meets
+Ruiz,Ricardo,1/4/1964,1001175250,21,MA,01915,Male,1/9/2012,11/4/2015,hours,Voluntarily Terminated,IT/IS,IT Manager - DB,Jennifer Zamora,Diversity Job Fair,Fully Meets
+Monroe,Peter,10/5/1986,1011022863,63,MA,02134,Male,2/15/2012,,N/A - still employed,Active,IT/IS,IT Manager - Infra,Jennifer Zamora,Diversity Job Fair,Needs Improvement
+Dougall,Eric,7/9/1970,1101023754,64,MA,01886,Male,1/5/2014,,N/A - still employed,Active,IT/IS,IT Manager - Support,Jennifer Zamora,Professional Society,Exceeds
+Clayton,Rick,9/5/1985,1301052902,28.99,MA,02170,Male,9/5/2012,,N/A - still employed,Active,IT/IS,IT Support,Eric Dougall,Glassdoor,Fully Meets
+Galia,Lisa,7/6/1968,1501072093,31.4,CT,06040,Female,5/1/2010,,N/A - still employed,Active,IT/IS,IT Support,Eric Dougall,Vendor Referral,Fully Meets
+Lindsay,Leonara ,10/5/1988,602000312,26,CT,06070,Female,1/21/2011,,N/A - still employed,Active,IT/IS,IT Support,Eric Dougall,Diversity Job Fair,Exceeds
+Soto,Julia ,3/12/1973,1203032263,27.49,MA,02360,Female,6/10/2011,,N/A - still employed,Active,IT/IS,IT Support,Eric Dougall,Information Session,Fully Meets
+Bacong,Alejandro ,1/7/1988,1212052023,45,MA,01886,Male,1/5/2015,,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Glassdoor,90-day meets
+Cisco,Anthony,11/24/1989,1102024173,42,MA,02135,Male,3/30/2015,,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Information Session,N/A- too early to review
+Dolan,Linda,7/18/1988,1101023540,37,MA,02119,Female,1/5/2015,,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Employee Referral,90-day meets
+Gonzalez,Maria,4/16/1981,1988299991,39,MA,02472,Female,1/5/2015,,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Employee Referral,Fully Meets
+Merlos,Carlos,6/18/1987,1012023013,43,MA,02138,Male,3/30/2015,,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Vendor Referral,N/A- too early to review
+Morway,Tanya,4/4/1979,1001956578,27,MA,02048,Female,2/16/2015,,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Monster.com,Fully Meets
+Shepard,Anita ,4/14/1981,906014183,47,MA,01773,Female,9/30/2014,,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Vendor Referral,Fully Meets
+Tredinnick,Neville ,5/5/1988,1104025466,28,MA,01420,Male,1/5/2015,5/12/2015,medical issues,Voluntarily Terminated,IT/IS,Network Engineer,Peter Monroe,Monster.com,Fully Meets
+Turpin,Jumil,3/31/1969,1411071506,49.1,MA,02343,Male,3/30/2015,,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Employee Referral,N/A- too early to review
+Ait Sidi,Karthikeyan   ,5/5/1975,1307060199,62,MA,02148,Male,3/30/2015,6/16/2016,career change,Voluntarily Terminated,IT/IS,Sr. DBA,Simon Roup,Company Intranet - Partner,Fully Meets
+Carr,Claudia,6/6/1986,1010022337,61.3,MA,01886,Female,6/30/2016,,N/A - Has not started yet,Future Start,IT/IS,Sr. DBA,Simon Roup,Vendor Referral,N/A- too early to review
+Favis,Donald  ,7/30/1964,1412071562,58.2,CT,06033,Male,2/17/2014,2/19/2016,hours,Terminated for Cause,IT/IS,Sr. DBA,Simon Roup,Vendor Referral,Fully Meets
+Roehrich,Bianca,5/27/1973,1111030266,58.5,MA,02703,Female,1/5/2015,11/10/2015,Another position,Voluntarily Terminated,IT/IS,Sr. DBA,Simon Roup,Vendor Referral,90-day meets
+Daniele,Ann  ,1/18/1952,1411071312,54.1,CT,06033,Female,11/10/2014,,N/A - still employed,Leave of Absence,IT/IS,Sr. Network Engineer,Peter Monroe,Vendor Referral,Fully Meets
+Lajiri,Jyoti,4/23/1986,1108028108,56.2,MA,02169,Male,11/10/2014,,N/A - still employed,Leave of Absence,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,Fully Meets
+Semizoglou,Jeremiah  ,2/9/1983,904013591,53.8,MA,01545,Male,6/30/2016,,N/A - Has not started yet,Future Start,IT/IS,Sr. Network Engineer,Peter Monroe,On-campus Recruiting,N/A- too early to review
+South,Joe,9/9/1965,1308060959,-53,CT,06278,Male,11/10/2014,,N/A - still employed,Active,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,90-day meets
+Warfield,Sarah,5/2/1978,1301052347,55.2,MA,02453,Female,3/30/2015,,N/A - still employed,Active,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,N/A- too early to review
+Bramante,Elisa,3/19/1983,1006020066,60,MA,02030,Female,1/5/2009,,N/A - still employed,Active,Production       ,Director of Operations,Janet King,Other,Exceeds
+Albert,Michael  ,10/10/1968,1501072311,54.5,MA,02169,Male,8/1/2011,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Employee Referral,Fully Meets
+Bozzi,Charles,3/10/1970,1303054580,50.5,MA,01901,Male,9/30/2013,8/7/2014,retiring,Voluntarily Terminated,Production       ,Production Manager,Janet King,Billboard,Fully Meets
+Butler,Webster,8/9/1983,1110029990,55,MA,02169,Male,1/28/2016,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Pay Per Click - Google,Exceeds
+Dunn,Amy  ,11/28/1973,1409070147,51,MA,01731,Female,9/18/2014,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Search Engine - Google Bing Yahoo,Fully Meets
+Gray,Elijiah  ,7/11/1981,1307060077,54,MA,01752,Male,6/2/2015,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Employee Referral,Fully Meets
+Hogland,Jonathan ,7/1/1972,1001944783,48.5,MA,01890,Male,1/10/2011,12/12/2015,attendance,Terminated for Cause,Production       ,Production Manager,Janet King,Employee Referral,Fully Meets
+Immediato,Walter,11/15/1976,1403065874,42,MA,02128,Male,2/21/2011,9/24/2012,unhappy,Voluntarily Terminated,Production       ,Production Manager,Janet King,Other,Needs Improvement
+Liebig,Ketsia,10/26/1981,1103024679,55,MA,02110,Female,9/30/2013,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Website Banner Ads,Exceeds
+Miller,Brannon,8/10/1981,1107027351,53,MA,02045,Male,8/16/2012,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Internet Search,Fully Meets
+Peterson,Ebonee  ,5/9/1977,1402065355,38.5,MA,02030,Female,10/25/2010,5/18/2016,Another position,Voluntarily Terminated,Production       ,Production Manager,Janet King,Internet Search,Fully Meets
+Spirea,Kelley,9/30/1975,1102024149,52,MA,02451,Female,10/2/2012,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Vendor Referral,Fully Meets
+Stanley,David ,12/17/1975,1000974650,53,MA,01803,Male,7/20/2010,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Monster.com,Needs Improvement
+Sullivan,Kissy ,3/28/1978,1405067298,55,MA,01776,Female,1/8/2009,,N/A - still employed,Active,Production       ,Production Manager,Janet King,Billboard,Fully Meets
+Wallace,Courtney,11/14/1955,1410071026,33.5,MA,02478,Female,9/26/2011,1/2/2012,Another position,Voluntarily Terminated,Production       ,Production Manager,Janet King,Diversity Job Fair,Fully Meets
+Adinolfi,Wilson,7/10/1983,1409070522,20,MA,01960,Male,7/5/2011,,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,MBTA ads,Exceeds
+Alagbe,Trina,9/27/1988,1011022883,21,MA,01886,Female,1/7/2008,,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Billboard,Fully Meets
+Anderson,Carol ,9/8/1989,1001417624,16,MA,02169,Female,7/11/2011,9/6/2011,return to school,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Word of Mouth,N/A- too early to review
+Anderson,Linda  ,5/22/1919,1304055947,23,MA,01844,Female,1/9/2012,,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,MBTA ads,Exceptional
+Athwal,Sam,2/18/1983,1301052124,22,MA,02199,Male,9/30/2013,,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Employee Referral,N/A- too early to review
+Bachiochi,Linda,2/11/1970,1212051409,22,MA,01902,Female,7/6/2009,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Brannon Miller,Diversity Job Fair,Fully Meets
+Baczenski,Rachael  ,1/12/1974,1307060083,17,MA,01902,Female,1/10/2011,1/12/2011,Another position,Voluntarily Terminated,Production       ,Production Technician I,David Stanley,Diversity Job Fair,N/A- too early to review
+Barbara,Thomas,2/21/1974,1312063507,22,MA,02062,Male,4/2/2012,9/19/2012,unhappy,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Diversity Job Fair,90-day meets
+Barone,Francesco,7/20/1983,1101023679,16.76,MA,01810,Male,2/20/2012,,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,Social Networks - Facebook Twitter etc,Fully Meets
+Barton,Nader,7/15/1977,1212051962,18,MA,02747,Male,9/24/2012,4/6/2013,Another position,Voluntarily Terminated,Production       ,Production Technician I,Michael Albert,On-line Web application,Fully Meets
+Beatrice,Courtney ,10/27/1970,1403066194,22,MA,01915,Female,4/4/2011,,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Search Engine - Google Bing Yahoo,Fully Meets
+Becker,Scott,4/6/1979,1110029777,17,MA,02452,Male,7/8/2013,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Webster Butler,MBTA ads,Fully Meets
+Bernstein,Sean,12/22/1970,1109029366,16,MA,999999,Male,4/2/2012,,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,Word of Mouth,Fully Meets
+Biden,Lowan,12/27/1958,1412071844,22,MA,02027,Female,8/19/2013,,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Billboard,Fully Meets
+Billis,Helen,9/1/1989,1308060366,16,MA,02031,Female,7/7/2014,,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Professional Society,Exceeds
+Brill,Donna,8/24/1990,1406068293,20,MA,01701,Female,4/2/2012,6/15/2013,Another position,Voluntarily Terminated,Production       ,Production Technician I,David Stanley,Search Engine - Google Bing Yahoo,Fully Meets
+Bugali,Josephine ,10/30/1969,1408069635,20,MA,02043,Female,11/11/2013,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Kissy Sullivan,Diversity Job Fair,Fully Meets
+Carey,Michael  ,2/2/1983,1311063114,20,MA,01701,Male,3/31/2014,,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,MBTA ads,Fully Meets
+Chace,Beatrice ,1/2/1951,1208048062,16,MA,02763,Female,9/29/2014,,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,Search Engine - Google Bing Yahoo,Fully Meets
+Chan,Lin,2/12/1979,1305057282,19.5,MA,02170,Female,5/12/2014,,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Internet Search,Fully Meets
+Chang,Donovan,8/24/1983,1111030129,22,MA,01845,Male,7/8/2013,,N/A - still employed,Active,Production       ,Production Technician I,Webster Butler,Newspager/Magazine,Fully Meets
+Chivukula,Enola,8/27/1983,1101023394,21,MA,01775,Female,6/27/2011,11/15/2015,relocation out of area,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,Other,90-day meets
+Cierpiszewski,Caroline  ,5/31/1988,1012023295,22,MA,02044,Female,10/3/2011,,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Pay Per Click - Google,Fully Meets
+Clukey,Elijian,8/26/1980,1407069280,24.75,MA,02134,Male,,,N/A - Has not started yet,Future Start,Production       ,Production Technician I,Brannon Miller,Employee Referral,Exceeds
+Cockel,James,9/8/1977,1599991009,15,MA,02452,Male,7/8/2013,,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Employee Referral,Fully Meets
+Cole,Spencer,8/12/1979,1001450968,15,MA,01880,Male,7/11/2011,9/23/2012,performance,Terminated for Cause,Production       ,Production Technician I,Kissy Sullivan,MBTA ads,Needs Improvement
+Cornett,Lisa ,3/31/1977,1403066069,15.75,MA,02189,Female,1/5/2015,,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,Billboard,90-day meets
+Crimmings,Jean,4/10/1987,1311063172,19.75,MA,01821,Female,7/6/2016,,N/A - Has not started yet,Future Start,Production       ,Production Technician I,Michael Albert,Newspager/Magazine,N/A- too early to review
+Darson,Jeneya ,11/5/1978,1001109612,15,MA,02110,Female,7/2/2012,,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Billboard,Fully Meets
+DeGweck,James,10/31/1977,1306058816,23.5,MA,01810,Male,5/16/2011,6/8/2015,unhappy,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Billboard,Fully Meets
+Desimone,Carl ,4/19/1967,1501072124,20,MA,02061,Male,7/7/2014,,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,Professional Society,PIP
+Dickinson,Geoff ,11/15/1982,706006285,21,MA,02180,Male,5/12/2014,,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Pay Per Click - Google,Fully Meets
+DiNocco,Lily ,12/2/1978,1209048696,22,MA,02351,Female,1/7/2013,,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Pay Per Click - Google,Needs Improvement
+Dobrin,Denisa,10/7/1986,1202031618,16.75,MA,02125,Female,4/2/2012,,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Monster.com,Fully Meets
+Eaton,Marianne,9/5/1991,1406067865,17,MA,02343,Female,4/4/2011,6/6/2013,military,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Search Engine - Google Bing Yahoo,Fully Meets
+Engdahl,Jean,5/31/1974,1007020403,21.25,MA,02026,Male,11/10/2014,,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,MBTA ads,Fully Meets
+England,Rex,8/25/1978,1101023612,21,MA,02045,Male,3/31/2014,,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,Employee Referral,90-day meets
+Estremera,Miguel,9/2/1983,1104025243,17,MA,02129,Male,4/2/2012,9/27/2014,attendance,Terminated for Cause,Production       ,Production Technician I,Michael Albert,Word of Mouth,Needs Improvement
